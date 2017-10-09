@@ -1,4 +1,6 @@
 # Source Sans Pro
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsource-sans-pro.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsource-sans-pro?ref=badge_shield)
+
 
 Source Sans Pro is a set of OpenType fonts that have been designed to work well
 in user interface (UI) environments. In addition to a functional OpenType font, this open
@@ -54,3 +56,7 @@ Send suggestions for changes to the Source Sans OpenType font project maintainer
 ## Further information
 
 For information about the design and background of Source Sans, please refer to the [official font readme file](https://rawgit.com/adobe-fonts/source-sans-pro/master/SourceSansProReadMe.html).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsource-sans-pro.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsource-sans-pro?ref=badge_large)
